@@ -1,0 +1,39 @@
+ime="Fight BOX"
+url="http://mobilesvet2.gcdn.co/fightbox/video.m3u8?md5=yt6xyxslq4Spsf5XGyvZZg&expires=1598873908&ak=7310671"
+img="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png"
+epg="498"
+
+ime="Fast BOX"
+url="http://mobilesvet2.gcdn.co/fastnfun/video.m3u8?md5=-hF3PHOzZxti6x_S9jGZEw&expires=1598873908&ak=7310671"
+img="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fastandfunbox-logo.png"
+epg="500"
+
+ime="Arena Sport 1 (Radi Na Zahtjev)"
+url="http://goldenv1.geantsmart.com:61555/live/S3TBpOjWhZ/Wj1WxasJBA/2091.m3u8"
+img="https://www.tvarenasport.com/sites/default/files/default_images/arena_default.jpg"
+epg="179"
+
+ime="Arena Sport 2 (Radi Na Zahtjev)"
+url="http://goldenv1.geantsmart.com:61555/live/S3TBpOjWhZ/Wj1WxasJBA/2090.m3u8"
+img="https://www.tvarenasport.com/sites/default/files/default_images/arena_default.jpg"
+epg="180"
+
+ime="Arena Sport 3 (Radi Na Zahtjev)"
+url="http://goldenv1.geantsmart.com:61555/live/S3TBpOjWhZ/Wj1WxasJBA/2089.m3u8"
+img="https://www.tvarenasport.com/sites/default/files/default_images/arena_default.jpg"
+epg="253"
+
+ime="Arena Sport 4 (Radi Na Zahtjev)"
+url="http://goldenv1.geantsmart.com:61555/live/S3TBpOjWhZ/Wj1WxasJBA/2088.m3u8"
+img="https://www.tvarenasport.com/sites/default/files/default_images/arena_default.jpg"
+epg="264"
+
+ime="Arena Sport 5 (Radi Na Zahtjev)"
+url="http://goldenv1.geantsmart.com:61555/live/S3TBpOjWhZ/Wj1WxasJBA/2087.m3u8"
+img="https://www.tvarenasport.com/sites/default/files/default_images/arena_default.jpg"
+epg="460"
+
+ime="Arena Sport 6 (Radi Na Zahtjev)"
+url="http://goldenv1.geantsmart.com:61555/live/S3TBpOjWhZ/Wj1WxasJBA/5771.m3u8"
+img="https://www.tvarenasport.com/sites/default/files/default_images/arena_default.jpg"
+epg="533"

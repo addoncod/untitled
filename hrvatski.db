@@ -1,0 +1,49 @@
+ime="HRT 1" 
+url="http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8" 
+img="http://tvprofil.net/img/kanali-logo/htv1-logo.png"
+epg="1"
+
+ime="HRT 2" 
+url="http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8" 
+img="http://tvprofil.net/img/kanali-logo/htv2-logo.png"
+epg="2"
+
+ime="HRT 3" 
+url="http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8" 
+img="http://tvprofil.net/img/kanali-logo/hrt3-logo.png"
+epg="310"
+
+ime="HRT 4" 
+url="http://www6.123123movies.net/watch/sex-and-the-future-2020-123movies.html" 
+img="http://img3.wikia.nocookie.net/__cb20121221162234/logopedia/images/d/dc/HRT4.png"
+epg="341"
+
+ime="HRTV BAYERN" 
+url="http://hrtvbayern.info/live.m3u8" 
+img="http://blackeye.drycloth.org/SLIKE/HRTVBayern.png"
+epg="-"
+
+ime="RTL" 
+url="http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8#http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8|User-Agent="AppleCoreMedia" 
+img="http://www.web-tv-portal.de/img/fernsehen/rtl-logo.png"
+epg="4"
+
+ime="RTL 2" 
+url="http://62.210.104.181:8080/RTL2/index.m3u8|User-Agent="AppleCoreMedia" 
+img="http://www.web-tv-portal.de/img/fernsehen/rtl-logo.png"
+epg="186"
+
+ime="NOVA TV" 
+url="http://catchup.iptv.iinet.rs/playlist.m3u8?id=140&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR" 
+img="https://www.kigo.hr/wp-content/uploads/2010/10/Nova-TV-640x426.jpg"
+epg="3"
+
+ime="Doma TV" 
+url="http://catchup.iptv.iinet.rs/playlist.m3u8?id=96&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR" 
+img="https://upload.wikimedia.org/wikipedia/commons/8/8a/Doma_tv.svg.png"
+epg="185"
+
+ime="STV" 
+url="http://89.201.163.244:8080/hls/hdmi.m3u8" 
+img="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png"
+epg="116"

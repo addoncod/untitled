@@ -1,0 +1,34 @@
+ime="MTV Adria" 
+url="http://mobilesvet.gcdn.co/mtvadria/video.m3u8?md5=cO5dOU9XqQ4bmEgi08RZEA&expires=1598873908&ak=7310671" 
+img="http://tvprofil.net/img/kanali-logo/mtv-logo.png"
+epg="165"
+
+ime="VH1" 
+url="http://mobilesvet.gcdn.co/vh1/video.m3u8?md5=qdXRJcF-jN4Liv8pQovNWg&expires=1598873908&ak=7310671" 
+img="https://image.roku.com/developer_channels/prod/6aaa406cab3f513f56ca1a29db27bb9db7cdb73348bb587c285835c51ff30bb2.png"
+epg="87"
+
+ime="360tune Box" 
+url="http://mobilesvet2.gcdn.co/360tune/video.m3u8?md5=isE0KrBXf23E3E4Qq3R_AA&expires=1598873908&ak=7310671" 
+img="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/360_tune_box.svg/1024px-360_tune_box.svg.png"
+epg="-"
+
+ime="KCN Music 2" 
+url="http://mobilesvet2.gcdn.co/kopernikusmusic/video.m3u8?md5=odF6VopQewW20hp2N2QQ-g&expires=1598873908&ak=7310671" 
+img="https://www.croatiantv-america.com/img/logoch/balkan29.jpg"
+epg="301"
+
+ime="DM Sat" 
+url="http://mobilesvet2.gcdn.co/dmsat/video.m3u8?md5=d3VsUndVXRF6MKHNJ6oEDQ&expires=1598873908&ak=7310671" 
+img="https://www.ion.tv/hr/australija/img/logoch/balkan24.jpg"
+epg="249"
+
+ime="K1" 
+url="http://mobilesvet.gcdn.co/k1/video.m3u8?md5=7PgLju32sRskDSsl8jkaMw&expires=1598873908&ak=7310671" 
+img="https://upload.wikimedia.org/wikipedia/commons/0/09/K1_Studio_logo.png"
+epg="-"
+
+
+
+
+
